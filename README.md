@@ -1,2 +1,2 @@
 # Pocket-Goal
-Python Developer | Building useful tools and automation | Learning AI and Backend Development..
+python personal-finance goal-tracker expense-tracker savings-tracker web-app
