@@ -4,6 +4,16 @@ Small Savings. Bigger Goals.
 
 A modern, simple and intuitive personal finance dashboard designed to help you track expenses, manage savings goals and take control of your money.
 
+<p align="center">
+  <a href="https://batman0707928.github.io/Pocket-Goal/">
+    <strong>🚀 Live Demo</strong>
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/batman0707928/Pocket-Goal">
+    <strong>⭐ GitHub Repository</strong>
+  </a>
+</p>---
+
 📌 About the Project
 
 Pocket-Goal is a personal finance management application that helps users organize their finances in one place.
@@ -110,4 +120,6 @@ If you find Pocket-Goal useful, consider giving the repository a ⭐ on GitHub!
 
 ---
 
-💙 Pocket-Goal — Small Savings. Bigger Goals.</strong>
+<p align="center">
+  <strong>💙 Pocket-Goal — Small Savings. Bigger Goals.</strong>
+</p>
