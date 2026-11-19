@@ -1,2 +1,2 @@
 # Pocket-Goal
-Pocket Goal: a JARVIS-style app to track savings, expenses and financial goals.
+Python Developer | Building useful tools and automation | Learning AI and Backend Development..
