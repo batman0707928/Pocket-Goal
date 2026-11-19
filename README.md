@@ -1,3 +1,3 @@
 # Pocket-Goal
 Pocket Goal: a JARVIS-style app to track savings, expenses and financial goals.
-index.html
+https://YOUR-USERNAME.github.io/pocket-goal/
