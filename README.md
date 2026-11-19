@@ -54,9 +54,11 @@ https://batman0707928.github.io/Pocket-Goal/
 
 Screenshots of the application will be added here.
 
-<!-- Add your actual screenshots here -->🚀 Getting Started
+<!-- Add your actual screenshots here -->
+
 <img width="1080" height="2408" alt="1000058150" src="https://github.com/user-attachments/assets/ce84d65a-7c6a-4326-b021-292b2344a5ca" />
 
+🚀 Getting Started
 
 1. Clone the repository
 
