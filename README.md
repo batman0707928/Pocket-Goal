@@ -1,4 +1,4 @@
-💎 Pocket-Goal
+3💎 Pocket-Goal
 
 Small Savings. Bigger Goals.
 
@@ -56,7 +56,7 @@ Screenshots of the application will be added here.
 
 <!-- Add your actual screenshots here -->
 
-<img width="1080" height="2408" alt="1000058150" src="https://github.com/user-attachments/assets/ce84d65a-7c6a-4326-b021-292b2344a5ca" />
+<img width="1080" height="2261" alt="1000058188" src="https://github.com/user-attachments/assets/61b178ad-114e-4b24-9db7-f3f4b38f496a" />
 
 🚀 Getting Started
 
